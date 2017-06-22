@@ -5,4 +5,6 @@ Swift Youtube Video
 
 -- Get Client ID and pass to file MFYoutubeloader.h
 
---
+-- Config Your App same it. specically , build settings (Header) and Build Phases (Libray)
+
+-- good luck
